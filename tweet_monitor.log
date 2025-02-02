@@ -5,3 +5,5 @@
 2025-02-02 19:43:03,653 - INFO - No 'check-in' posts found.
 2025-02-02 19:44:03,086 - INFO - Starting scheduled tweet monitoring...
 2025-02-02 19:44:03,087 - INFO - Starting tweet monitoring for user '1337FIL' with keyword 'check-in'
+2025-02-02 19:59:03,719 - INFO - No 'check-in' posts found.
+2025-02-02 19:59:03,720 - INFO - Starting tweet monitoring for user '1337FIL' with keyword 'check-in'
